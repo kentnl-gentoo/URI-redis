@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 
+use lib q[.];
 use inc::Module::Install 0.91;
 
 use Module::Install::AuthorRequires 0.02;
